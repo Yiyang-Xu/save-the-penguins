@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/myAssets/myScenes/GameMenu.unity
     guid: 1cd7430fd62fb49b0a4ba778df6c5405
   - enabled: 1
-    path: Assets/myAssets/myScenes/GameScene.unity
+    path: Assets/myAssets/myScenes/ToolbarScene.unity
     guid: c01ea8fed332e413096790389e953626
   - enabled: 1
     path: Assets/myAssets/myScenes/Settings.unity
